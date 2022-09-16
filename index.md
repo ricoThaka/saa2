@@ -1,3 +1,16 @@
+<h2 >
+LightSkinKeisha ::  FDH
+</h2>
+
+  <video width="100%" height="350px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
+  <source src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/FDH_LSK.mp4" type='video/mp4' />
+
+  </video>
+
+<h2 >
+SELASSiE_HOUSE_ViDEO_PLAYER
+</h2>
+
 ---
 layout: default
 ---
