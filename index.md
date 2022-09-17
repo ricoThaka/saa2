@@ -1,3 +1,13 @@
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/de3s8YN1lQs" title="Working Girl Episode -4- McJoe's 5/7/1990 Sandra Bullock, Nana Visitor," frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+<hr>
+## Dear_Sartu
+This is for the pimps. They dont know how to dress you
+<iframe width="100%" height="655" src="https://www.youtube.com/embed/F29XNSKdWKU" title="Jackée  (1989 - Pilot Episode) (227 Spin-Off)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Theres a way to be tacky without sloppy and beat-up
+<hr>
+
 ## Shot in Atlanta
 ### Im such a moron
 <iframe width="100%" height="502" src="https://www.youtube.com/embed/zVrWlEII8u0" title="Kash Doll All The Way Up Remix Official Music Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
