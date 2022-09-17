@@ -1,3 +1,7 @@
+## Shot in Atlanta
+### Im such a moron
+<iframe width="100%" height="502" src="https://www.youtube.com/embed/zVrWlEII8u0" title="Kash Doll All The Way Up Remix Official Music Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## Dear Sartu,
 Im exploring [Bratmail](https://twitter.com/JazzySlaymaster/status/1473403393628680192) and I hear a lot of disturbing views... I can complain about not being touched all day, but the human traffickers seduced you and now we have uncertain ability to see each other. Some women telecated to me their sale status on the train and I felt so powerless. How much porn are you under contract for?
