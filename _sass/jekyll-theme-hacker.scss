@@ -263,6 +263,20 @@ a {
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
 }
 
+video {
+  background: rgb(217,4,121);
+  background: linear-gradient(270deg, rgba(217,4,121,1) 0%, rgba(254,245,1,1) 35%, rgba(0,212,255,1) 100%);
+	transition: 1s cubic-bezier(.25,.1,.2,3);
+}
+
+video:hover {
+
+  background: rgb(217,4,121);
+  background: linear-gradient(90deg, rgba(217,4,121,1) 0%, rgba(254,245,1,1) 35%, rgba(0,212,255,1) 100%);
+
+}
+
+
 /* Clearfix */
 
 .cf:before, .cf:after {
