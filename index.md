@@ -3,10 +3,32 @@
 
   </video>
 
-<video id="grandtour" title="Grand tour of calibre" controls preload="metadata">
+
+
+
+
+
+
+## Dear_Muna, please forward to Erika, Kali, and Laura
+I know Coral writes graffiti. But she worked with me a long time and knows how to pick non offensive places to paint. If she is offending anyone its healthiest to get in front of it b4 the other kids follow suit. Jabdu been looking at you and Im super scared. I told him to slow down while he was tagging one day, and he caught mad attitude. I did not even know who he was. Thats still Naser_Nephew and there issues that come with that... ##Rebellion_against_older_ones ##READ_THIS_BOOK_AND_GUIDE_OUR_CHILD... unless issa billy jean situation... grep -i Jimmy[f*N,k*l] and echo swiss should know that I deserve a response maaan I heard J.Cole was paarenting on the sly... Maaaan you went to tha circus own ah nigguh 
+<img src="https://cdn.shopify.com/s/files/1/0251/9771/products/STAYHIGH_GettingOver_Inside3_3000x3000.jpg?v=1571265878">
+<iframe src="https://archive.org/embed/artofgettingover0000powe" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<video width="100%" id="grandtour" title="Grand tour of calibre" controls preload="metadata">
     <source type="video/mp4"   src="https://download.calibre-ebook.com/videos/grand-tour.mp4" />
 
 </video>
+<hr>
+
+[Download_STEVEN_POWETS_THE_Art_of_Getting_Over_HERe_and_USE_CALiBRE_TO_READ_iT](https://vdoc.pub/documents/the-art-of-getting-over-50kg6hib9uo0)
+<hr>
+<a href="https://calibre-ebook.com/demo#tutorials"><img src="https://download.calibre-ebook.com/images/4/dark-editor.png"></a>
+<a href="https://calibre-ebook.com/about"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Calibre_logo_3.png"></a>
+<a href="https://calibre-ebook.com/whats-new"><img src="https://blog.the-ebook-reader.com/wp-content/uploads/2019/10/Calibre-eBook.jpg"></a>
+
+<hr>
+
+
+
 <img src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/design_resources/002-022-graffiti-kids-photograph-jon-naar-1973-mcny.jpg">
 <img src="https://commercialclassics.com/uploads/5500055/1585495747297/CC.ThorowgoodOpen.10LineSansSurrphys-1400-xxx_q87.jpg">
 
