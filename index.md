@@ -1,4 +1,4 @@
-  <video width="100%" height="350px" controls preload="none" poster='https://www.hotnewhiphop.com/image/740x416/cover/1613944317_f6ed84318a4e0b17c5da0a2999496be2.jpg/b19dee9cd5791475ced166996ba92bd1/1613944317_9c1f11b25b3c6de32f75ae280feac08c.jpg' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
+  <video width="100%" height="350px" controls preload="none" poster='https://manual.calibre-ebook.com/_images/edit-book.png' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
   <source src="https://download.calibre-ebook.com/videos/grand-tour.mp4" type='video/mp4' />
 
   </video>
@@ -8,7 +8,7 @@
 
 
 
-
+# Sartu, Muna blog not displaying video check the sourche code
 ## Dear_Muna, please forward to Erika, Kali, and Laura
 I know Coral writes graffiti. But she worked with me a long time and knows how to pick non offensive places to paint. If she is offending anyone its healthiest to get in front of it b4 the other kids follow suit. Jabdu been looking at you and Im super scared. I told him to slow down while he was tagging one day, and he caught mad attitude. I did not even know who he was. Thats still Naser_Nephew and there issues that come with that... ##Rebellion_against_older_ones ##READ_THIS_BOOK_AND_GUIDE_OUR_CHILD... unless issa billy jean situation... grep -i Jimmy[f*N,k*l] and echo swiss should know that I deserve a response maaan I heard J.Cole was paarenting on the sly... Maaaan you went to tha circus own ah nigguh 
 <img src="https://cdn.shopify.com/s/files/1/0251/9771/products/STAYHIGH_GettingOver_Inside3_3000x3000.jpg?v=1571265878">
