@@ -120,6 +120,14 @@ section img {
   max-width: 100%
 }
 
+.rotate180 {
+  -webkit-transform:rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+  }
+
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
   color: $header;
