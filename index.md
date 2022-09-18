@@ -1,9 +1,6 @@
-  <video width="100%" height="350px" controls preload="none" poster='https://manual.calibre-ebook.com/_images/edit-book.png' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
-  <source src="https://download.calibre-ebook.com/videos/grand-tour.mp4" type='video/mp4' />
+## Sartu, Im getting the glitchLab running on my new cell I found
 
-  </video>
-
-
+[10 Best Glitch Art Video Editing Apps for iOS and Android-based Devices](https://filmora.wondershare.com/video-editor/best-glitch-art-video-editing-apps.html)
 
 
 
