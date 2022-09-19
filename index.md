@@ -1,4 +1,19 @@
-## Sartu, Im getting the glitchLab running on my new cell I found
+# carl Jung on Alchemy
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/2AMu-G51yTY" title="Face To Face  |  Carl Gustav Jung (1959) HQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![##CARL_JUNG](https://careerassessmentsite.com/wp-content/uploads/2015/11/Carl-Jung-.jpg)
+[Psychology and Alchemy by Carl Jung (1968) [Part I]](https://www.youtube.com/watch?v=COvafdy108A&t=8s)
+[The Undiscovered Self, by Carl Jung (audiobook)](https://www.youtube.com/watch?v=doAlX2WIpGk)
+[Carl Gustav Jung - Approaching The Unconscious - Psychology audiobooks](https://youtu.be/xZSbffrftd0)
+[Face To Face | Carl Gustav Jung (1959) HQ](https://www.youtube.com/watch?v=2AMu-G51yTY)
+[Carl Gustav Jung - Approaching The Unconscious - Psychology audiobooks](https://youtu.be/xZSbffrftd0)
+[Christ, a Symbol of the Self, by Carl Jung (audiobook)](https://www.youtube.com/watch?v=3xU2AMOdkEc)
+[Carl Gustav Jung - Man and his symbols parts 1-2 - Psychology audiobooks](https://www.youtube.com/watch?v=RyiccI0PZxM)
+[Carl Jung - Memories, Dreams, Reflections](https://www.youtube.com/watch?v=qE262Bt40SI)
+
+
+
+
+# Sartu, Im getting the glitchLab running on my new cell I found
 
 [10 Best Glitch Art Video Editing Apps for iOS and Android-based Devices](https://filmora.wondershare.com/video-editor/best-glitch-art-video-editing-apps.html)
 
@@ -10,9 +25,8 @@
 I know Coral writes graffiti. But she worked with me a long time and knows how to pick non offensive places to paint. If she is offending anyone its healthiest to get in front of it b4 the other kids follow suit. Jabdu been looking at you and Im super scared. I told him to slow down while he was tagging one day, and he caught mad attitude. I did not even know who he was. Thats still Naser_Nephew and there issues that come with that... ##Rebellion_against_older_ones ##READ_THIS_BOOK_AND_GUIDE_OUR_CHILD... unless issa billy jean situation... grep -i Jimmy[f*N,k*l] and echo swiss should know that I deserve a response maaan I heard J.Cole was paarenting on the sly... Maaaan you went to tha circus own ah nigguh 
 <img src="https://cdn.shopify.com/s/files/1/0251/9771/products/STAYHIGH_GettingOver_Inside3_3000x3000.jpg?v=1571265878">
 <iframe src="https://archive.org/embed/artofgettingover0000powe" width="100%" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
-<video width="100%" id="grandtour" title="Grand tour of calibre" controls preload="metadata">
-    <source type="video/mp4"   src="https://download.calibre-ebook.com/videos/grand-tour.mp4" />
-
+<video width="100%" height="400" id="grandtour" title="Grand tour of calibre" controls preload="metadata">
+<source type="video/mp4"   src="https://download.calibre-ebook.com/videos/grand-tour.mp4" />
 </video>
 <hr>
 
