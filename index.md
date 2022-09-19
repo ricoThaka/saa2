@@ -1,5 +1,6 @@
 
-[#የብራናገፅ #ትረካ መፅሐፈ ሔኖክ ኢትዮጵያዊ - ሙሉ ትረካ [The Book Of Enoch Ethiopian](https://www.youtube.com/watch?v=KIChceXNWE0)
+# የብራናገፅ #ትረካ መፅሐፈ ሔኖክ ኢትዮጵያዊ - ሙሉ ትረካ 
+[The Book Of Enoch Ethiopian](https://www.youtube.com/watch?v=KIChceXNWE0)
 <hr>
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/ZglMKqszOco" title="LIGHT: THE SPIRIT SCIENCE MOVIE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
