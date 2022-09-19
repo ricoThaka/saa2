@@ -1,5 +1,8 @@
-# carl Jung on Alchemy
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/ZglMKqszOco" title="LIGHT: THE SPIRIT SCIENCE MOVIE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+# Carl Jung on Alchemy
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/2AMu-G51yTY" title="Face To Face  |  Carl Gustav Jung (1959) HQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![##CARL_JUNG](https://careerassessmentsite.com/wp-content/uploads/2015/11/Carl-Jung-.jpg)
 [Psychology and Alchemy by Carl Jung (1968) [Part I]](https://www.youtube.com/watch?v=COvafdy108A&t=8s)
 [The Undiscovered Self, by Carl Jung (audiobook)](https://www.youtube.com/watch?v=doAlX2WIpGk)
@@ -9,8 +12,10 @@
 [Christ, a Symbol of the Self, by Carl Jung (audiobook)](https://www.youtube.com/watch?v=3xU2AMOdkEc)
 [Carl Gustav Jung - Man and his symbols parts 1-2 - Psychology audiobooks](https://www.youtube.com/watch?v=RyiccI0PZxM)
 [Carl Jung - Memories, Dreams, Reflections](https://www.youtube.com/watch?v=qE262Bt40SI)
+['Man and his Symbols' Carl G Jung Part 1](https://www.youtube.com/watch?v=ZIz5P3zketE)
+[Carl Sagan's 1994 "Lost" Lecture: The Age of Exploration](https://www.youtube.com/watch?v=6_-jtyhAVTc)
 
-
+[SciCafe: Life the Universe and Everything with Neil deGrasse Tyson](https://www.youtube.com/watch?v=4KRZQQ_eICo)
 
 
 # Sartu, Im getting the glitchLab running on my new cell I found
