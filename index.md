@@ -1,6 +1,10 @@
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/lqgQMvDw-K8" title="Waka TM: New Eritrean comedy 2022 (Gual Hadera) #Semhar Mesfn ጓል ሓደራ #ሰምሃር መስፍን" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# [የምስጢረ ስላሴ እና የሰው ተፈጥሮ ትምህርት እና የተሃድሶ (በግ ለምድ) ዘመቻ በመምህር ዶ/ር ዘበነ ለማ (Memher Dr Zebene Lemma)](https://www.youtube.com/watch?v=9OWX9q-YJMY)
 # የብራናገፅ #ትረካ መፅሐፈ ሔኖክ ኢትዮጵያዊ - ሙሉ ትረካ 
+## የብራናገፅ #ትረካ መፅሐፈ ሔኖክ ኢትዮጵያዊ - ሙሉ ትረካ 
 [The Book Of Enoch Ethiopian](https://www.youtube.com/watch?v=KIChceXNWE0)
+[Bible audio wisdom Jeshua son of Sirak from 1-25 መጽሓፍ ቅዱስ ብድምጺ፡ መጽሓፍ ጥበብ ኢያሱ ወዲ ሲራክ ካብ ምዕራፍ 1-25](https://www.youtube.com/watch?v=NCVnkQYeI9c)
 <hr>
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/ZglMKqszOco" title="LIGHT: THE SPIRIT SCIENCE MOVIE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
