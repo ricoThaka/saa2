@@ -1,5 +1,9 @@
+
+[#የብራናገፅ #ትረካ መፅሐፈ ሔኖክ ኢትዮጵያዊ - ሙሉ ትረካ [The Book Of Enoch Ethiopian](https://www.youtube.com/watch?v=KIChceXNWE0)
+<hr>
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/ZglMKqszOco" title="LIGHT: THE SPIRIT SCIENCE MOVIE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
+
 # Carl Jung on Alchemy
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/2AMu-G51yTY" title="Face To Face  |  Carl Gustav Jung (1959) HQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -14,7 +18,9 @@
 [Carl Jung - Memories, Dreams, Reflections](https://www.youtube.com/watch?v=qE262Bt40SI)
 ['Man and his Symbols' Carl G Jung Part 1](https://www.youtube.com/watch?v=ZIz5P3zketE)
 [Carl Sagan's 1994 "Lost" Lecture: The Age of Exploration](https://www.youtube.com/watch?v=6_-jtyhAVTc)
-
+[HIDDEN MATHEMATICS - Randall Carlson - Ancient Knowledge of Space, Time & Cosmic Cycles](https://www.youtube.com/watch?v=R7oyZGW99os)
+[THE HERMETICA The Lost Wisdom of the Pharaohs - AUDIOBOOK || Timothy Freke & Peter Gandy](https://www.youtube.com/watch?v=N7hrzOCxaIE)
+[The Tibetan Book of Living and Dying. Malditasweet](https://www.youtube.com/watch?v=pPKbxpT7Z0c&t=3158s)
 [SciCafe: Life the Universe and Everything with Neil deGrasse Tyson](https://www.youtube.com/watch?v=4KRZQQ_eICo)
 
 
