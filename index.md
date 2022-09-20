@@ -1,3 +1,8 @@
+<hr>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/4c4h7b0V8YE" title="ALLREME.wmv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
+
+[mc shan vs krs one](https://www.youtube.com/watch?v=KVj7NQTuE_0)
 <img src="https://i.discogs.com/rPrwVqd-tRxhvzDP182GHFDmTJNPJ5CR_v_o968746I/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTAz/MjEtMTI3ODgwNjQ1/My5qcGVn.jpeg">
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3AJ15ysr4Hz5p0N2tnNb1F?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
