@@ -1,3 +1,8 @@
+
+<hr>
+
+[THE_BEGINNING_OF_THE_CHOICE_OF_PROFESSIONALS](https://mksound.com/videos/the-beginning-of-the-choice-of-professionals/)
+[M&K_SOUND_SUBWOOFER_PEE_DEE_EFF](https://mksound.com/wp-content/uploads/2022/05/HCC_331_MK_subwoofer_Reprint-LOW.pdf)
 <hr>
 ## Josef_Mak
 ..His family is missing
