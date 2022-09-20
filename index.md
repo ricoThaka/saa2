@@ -1,3 +1,6 @@
+<img src="https://i.discogs.com/kYjrQ7tvcQJptLlZlQnrx59DqvAzzeLUkZR3S7mJXok/rs:fit/g:sm/q:90/h:519/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMwNzg5/MzUtMTU4NjkzMzE5/OS01MTk2LmpwZWc.jpeg">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1WNx6wxgHfQDaWx2tFvXyV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/00rd6vxwcg4so4ZuxcEHN9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <hr>
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/4c4h7b0V8YE" title="ALLREME.wmv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <hr>
