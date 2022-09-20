@@ -1,3 +1,6 @@
+<img src="https://i.discogs.com/rPrwVqd-tRxhvzDP182GHFDmTJNPJ5CR_v_o968746I/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNTAz/MjEtMTI3ODgwNjQ1/My5qcGVn.jpeg">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/3AJ15ysr4Hz5p0N2tnNb1F?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4yChgYDVcQrAgIEIErW27b?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <hr>
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/kZbdhgJBoiM" title="The Iconic S150 floating in the darkness - awakening all senses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -5,6 +8,7 @@
 [THE_BEGINNING_OF_THE_CHOICE_OF_PROFESSIONALS](https://mksound.com/videos/the-beginning-of-the-choice-of-professionals/)
 [M&K_SOUND_SUBWOOFER_PEE_DEE_EFF](https://mksound.com/wp-content/uploads/2022/05/HCC_331_MK_subwoofer_Reprint-LOW.pdf)
 <hr>
+
 ## Josef_Mak
 ..His family is missing
 
