@@ -1,3 +1,22 @@
+## Dear Sartu,
+Please look at my [2014_FACEBOOK_ACCOUNT_YOU_MADE_ME_FIX_UP_B4_THA_KIDNAPPING](https://www.facebook.com/CaptainOfJoy/)
+<div border-radius:12px class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/136170030_1826650430829939_6675257196189970457_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=cIQGp6Y5lvYAX9QKAt8&_nc_ht=scontent-lax3-1.xx&oh=00_AT83Gx51ovDG21cBzgxFdmJy40tPjc56b1lRaxJGar_0DA&oe=63511312" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://scontent-lax3-1.xx.fbcdn.net/v/t1.6435-9/134728419_1826650390829943_878574117975820351_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=WfRsTlKId08AX9MW--Q&_nc_ht=scontent-lax3-1.xx&oh=00_AT-cZc9v75bZuvg0UiYuHZ8UX_xu4rJnvvuN_md1UJSo_g&oe=63506032" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/133308104&color=%23e71414&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/atlhotspot" title="Atlanta Hot Spot🔥" target="_blank" style="color: #cccccc; text-decoration: none;">Atlanta Hot Spot🔥</a> · <a href="https://soundcloud.com/atlhotspot/young-thug-curtains-ft-shawty" title="Young Thug Curtains Ft. Shawty Lo &amp; Skool Boy" target="_blank" style="color: #cccccc; text-decoration: none;">Young Thug Curtains Ft. Shawty Lo&KA$H_DOLL &amp; Skool Boy</a></div>
+<hr>
 
 [Background Position Fixed and Cover with CSS](https://www.taniarascia.com/background-position-fixed-and-cover-with-css/)
 
