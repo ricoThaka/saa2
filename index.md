@@ -2,7 +2,7 @@
 
 ## ROLLiNGSTONE##IS_CHANNELING##THAKA_TODAY##
 
-<IMG src="https://www.rollingstone.com/wp-content/uploads/2022/05/MC-Lyte-Lyte-as-a-Rock-1988.jpg">
+<IMG src="https://www.rollingstone.com/wp-content/uploads/2022/05/MC-Lyte-Lyte-as-a-Rock-1988.jpg" style="border-radius:12px" >
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2i8QflzkUsxQOhHHCiJiVm?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <hr>
 
