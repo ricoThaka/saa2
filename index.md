@@ -16,7 +16,7 @@ Please look at my [2014_FACEBOOK_ACCOUNT_YOU_MADE_ME_FIX_UP_B4_THA_KIDNAPPING](h
       </div>
     </div>
   </div>
-
+<hr>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/133308104&color=%23e71414&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/atlhotspot" title="Atlanta Hot Spot🔥" target="_blank" style="color: #cccccc; text-decoration: none;">Atlanta Hot Spot🔥</a> · <a href="https://soundcloud.com/atlhotspot/young-thug-curtains-ft-shawty" title="Young Thug Curtains Ft. Shawty Lo &amp; Skool Boy" target="_blank" style="color: #cccccc; text-decoration: none;">Young Thug Curtains Ft. Shawty Lo&KA$H_DOLL &amp; Skool Boy</a></div>
 <hr>
