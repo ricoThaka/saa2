@@ -20,10 +20,10 @@ $container-max-width: 1000px;
 body {
   color: white;
   background-color: #010a00;
-  background-image: url("https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg");
+  /* background-image: url(""); */
   font-size: 1rem;
   /* background-image: url("https://burodestruct.net/sites/default/files/styles/bd_wide_2x/public/bd_type1_city.jpg?itok=MJSd2yw9"); */
-
+  background: url(https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg) no-repeat 50% fixed / cover;
  /* background: url("https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg") 0 / cover fixed; /* centered full background code */
   line-height: 1.5;
   /*
