@@ -1,3 +1,6 @@
+
+<IMG src="https://www.loudandquiet.com/files/2017/05/kelela-gem-harris-1.jpg" alt="Freedom's mom is in effect, please respect!">
+<br>
 <IMG src="https://lastfm.freetls.fastly.net/i/u/ar0/20bc1c1da12b7eef4ef0ebfc0090adfa">
 <br>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/216539782&color=%235d5957&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; "><a href="https://soundcloud.com/wakaflockaflame" title="Waka Flocka" target="_blank" style="color: #cccccc; text-decoration: none;">Waka Flocka</a> · <a href="https://soundcloud.com/wakaflockaflame/hard-in-da-paint" title="Hard in Da Paint" target="_blank" style="color: #cccccc; text-decoration: none;">Hard in Da Paint</a></div>
@@ -5,6 +8,7 @@
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/250370192&color=%2394548c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/user-850740963" title="VANDL" target="_blank" style="color: #cccccc; text-decoration: none;">VANDL</a> · <a href="https://soundcloud.com/user-850740963/waka-flocka-flame-hard-in-the-paint-suicideyear-remix" title="Waka Flocka Flame - Hard In The Paint (suicideyear Remix)" target="_blank" style="color: #cccccc; text-decoration: none;">Waka Flocka Flame - Hard In The Paint (suicideyear Remix)</a></div>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/225433924&color=%23b5a492&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/2chainz" title="2 Chainz" target="_blank" style="color: #cccccc; text-decoration: none;">2 Chainz</a> · <a href="https://soundcloud.com/2chainz/03-tity-boi-too-easy-feat-cap1" title="03 - Tity Boi - Too Easy Feat Cap1 Prod By Lex Luger" target="_blank" >03 - Tity Boi - Too Easy Feat Cap1 Prod By Lex Luger</a></div>
 <br>
+<hr>
 <div class="flex-container">
 
   <div class="item1"> <img src="https://i.pinimg.com/originals/30/0a/92/300a92c7e7b078919d44e313781df6f4.jpg" /></div>
