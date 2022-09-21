@@ -1,3 +1,5 @@
+<IMG style="border-radius:12px"  src="https://images.genius.com/e70b57591971690f1b93fa991dfa68db.599x599x1.jpg">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5hGsUZIjiBZq4QRtjdulKB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Dear Normani,
 Lemme rock witchu inna Brook? These hardcore slippahs is healthy for hiking in the zombieland terraces of lancaster those mountainous places where those 50 b and a-list horror flicks were shot
