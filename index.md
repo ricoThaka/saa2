@@ -1,4 +1,5 @@
-
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/225433924&color=%23b5a492&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/2chainz" title="2 Chainz" target="_blank" style="color: #cccccc; text-decoration: none;">2 Chainz</a> · <a href="https://soundcloud.com/2chainz/03-tity-boi-too-easy-feat-cap1" title="03 - Tity Boi - Too Easy Feat Cap1 Prod By Lex Luger" target="_blank" >03 - Tity Boi - Too Easy Feat Cap1 Prod By Lex Luger</a></div>
+<br>
 <div class="flex-container">
 
   <div class="item1"> <img src="https://i.pinimg.com/originals/30/0a/92/300a92c7e7b078919d44e313781df6f4.jpg" /></div>
