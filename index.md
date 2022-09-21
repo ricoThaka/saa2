@@ -1,3 +1,7 @@
+
+## NORMANiE_BUBBALiCiOUS
+<IMG src="https://hips.hearstapps.com/hmg-prod/images/urbandecay-normani-1592496374.jpg" alt="_NORMANIE_##YOU_CAN_GO_BY_SARTU_FROM_NOW_ON##VOGUE">
+<br>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/582005307&color=%23bca362&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/2chainz" title="2 Chainz" target="_blank" style="color: #cccccc; text-decoration: none;">2 Chainz</a> · <a href="https://soundcloud.com/2chainz/whip-feat-travis-scott" title="Whip (feat. Travis Scott)" target="_blank" style="color: #cccccc; text-decoration: none;">Whip (feat. Travis Scott)</a></div>
 <br>
 
