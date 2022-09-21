@@ -1,7 +1,7 @@
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1JKJZLqLUh0vlemaD3IfLe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <img src="https://images.footlocker.com/is/image/EBFL2/2B089700_a3?wid=2000&hei=2000&fmt=png-alpha">
 
-<div class='twoPanelSpread'>
+<div border-radius:12px class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
