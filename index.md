@@ -1,7 +1,7 @@
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5yDB2vKMJ4elwSgunTeSmh?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6xZ8qCWwI57p5tLMdNYRwJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<hr>
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
@@ -16,7 +16,7 @@
     </div>
   </div>
  </div>
-
+<hr>
 <IMG style="border-radius:12px"  src="https://images.footlocker.com/is/image/EBFL2/3291B353_a5_1?wid=2000&hei=2000&fmt=png-alpha">
 
 

@@ -19,7 +19,10 @@ $container-max-width: 1000px;
 
 body {
   color: white;
-  background: url("https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg") 0 / cover fixed; /* centered full background code */
+  background-color: #010a00;
+  background-image: url("https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg");
+  font-size: 1rem;
+  /* background-image: url("https://burodestruct.net/sites/default/files/styles/bd_wide_2x/public/bd_type1_city.jpg?itok=MJSd2yw9"); */
 
  /* background: url("https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg") 0 / cover fixed; /* centered full background code */
   line-height: 1.5;
@@ -312,6 +315,8 @@ video:hover {
   text-decoration: none;
 }
 
+
+
 .twoPanelSpread {
   border-radius:12px;
   background-color: #00db46; /* For browsers that do not support gradients */
@@ -372,9 +377,6 @@ h3 {
   background: transparent
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
     center repeat;
-  font-family: "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif, -apple-system, Monaco, 
-    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell, ;
   font-weight: 900;
   padding: 0px;
   margin: 0px;
