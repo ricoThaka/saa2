@@ -19,12 +19,16 @@ $container-max-width: 1000px;
 
 body {
   color: white;
-background: url("https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg") 0 / cover fixed; /* centered full background code */
+  background: url("https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg") 0 / cover fixed; /* centered full background code */
+
+ /* background: url("https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/CHALK_LOVER_AWR.jpg") 0 / cover fixed; /* centered full background code */
   line-height: 1.5;
-   -webkit-background-size: cover;
+  /*
+  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: cover; 
+  */
   font-family: "Comfortaa", -apple-system, Ubuntu, "Ariel Black", Verdana;
 }
 
@@ -34,6 +38,10 @@ background: url("https://raw.githubusercontent.com/ThakaRashard/film1/master/ass
   width: 90%;
   max-width: $container-max-width;
   margin: 0 auto;
+}
+
+img {
+  border-radius:12px;
 }
 
 section {
