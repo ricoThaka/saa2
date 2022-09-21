@@ -1,3 +1,10 @@
+
+## ROLLiNGSTONE##IS_CHANNELING##THAKA_TODAY##
+
+<IMG src="https://www.rollingstone.com/wp-content/uploads/2022/05/MC-Lyte-Lyte-as-a-Rock-1988.jpg">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2i8QflzkUsxQOhHHCiJiVm?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<hr>
+
 ## Dear Sartu,
 I got this phone i found i've installed git and some other testing apps im still organizing and configuring. I got to do telepathic browser testing with MoZiLLA_FireFox the background is not responsive on all platforms so imma use the old way of doing it. Lea's code is amazing... Ill see about porting it from [that classroom blog theme on codepen.io](https://codepen.io/thakasartu/pen/NWMpbgb) i used for "Normanie_is_Missing".
 <p class="codepen" data-height="300" data-theme-id="light" data-default-tab="html,result" data-slug-hash="NWMxemL" data-editable="true" data-user="thakasartu" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
