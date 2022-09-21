@@ -303,3 +303,75 @@ video:hover {
 #a-title {
   text-decoration: none;
 }
+
+.twoPanelSpread {
+  
+  background-color: #00db46; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #e66250, #ff80cc);
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.panelColumn {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  flex: 1;
+  overflow: hidden;
+}
+
+
+.leftColumn {
+  background-color: #2470FF;
+  width: 100%;
+}
+
+.leftColumn img {
+  
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+  
+}
+
+.rightColumn {
+  background-color: #c9ff23;
+}
+.rightColumn img { 
+ 
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+
+h2,
+h1,
+h3 {
+  color: white;
+  background: transparent
+    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif)
+    center repeat;
+  font-family: "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif, -apple-system, Monaco, 
+    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Oxygen-Sans, Ubuntu, Cantarell, ;
+  font-weight: 900;
+  padding: 0px;
+  margin: 0px;
+  text-align: left;
+  font-variant-caps: small-caps;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
+    0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
+}

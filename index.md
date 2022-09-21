@@ -1,3 +1,38 @@
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/en/4/42/Mulatto_%22Bitch_from_Da_Souf%22.png" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://images.genius.com/e340ddf6971616a68049fecc163ec30c.1000x1000x1.png" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
+
+<IMG style="border-radius:12px"  src="https://images.footlocker.com/is/image/EBFL2/3291B353_a5_1?wid=2000&hei=2000&fmt=png-alpha">
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+<IMG style="border-radius:12px"  src="https://images.footlocker.com/is/image/EBFL2/3291B353_a4?wid=2000&hei=2000&fmt=png-alpha">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img style="border-radius:12px"  src="https://images.footlocker.com/is/image/EBFL2/3291B353_a5_1?wid=2000&hei=2000&fmt=png-alpha" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
+
+
+
 <IMG style="border-radius:12px"  src="https://images.genius.com/e70b57591971690f1b93fa991dfa68db.599x599x1.jpg">
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5hGsUZIjiBZq4QRtjdulKB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
