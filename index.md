@@ -1,3 +1,13 @@
+## Dear Sartu,
+I got this phone i found i've installed git and some other testing apps im still organizing and configuring. I got to do telepathic browser testing with MoZiLLA_FireFox the background is not responsive on all platforms so imma use the old way of doing it. Lea's code is amazing... Ill see about porting it from [that classroom blog theme on codepen.io](https://codepen.io/thakasartu/pen/NWMpbgb) i used for "Normanie_is_Missing".
+<p class="codepen" data-height="300" data-theme-id="light" data-default-tab="html,result" data-slug-hash="NWMxemL" data-editable="true" data-user="thakasartu" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/thakasartu/pen/NWMxemL">
+  BLOG_LAYOUT##SARTU_MY_WIFE_IS_MISSING_LETS_TRY_TO_GET_SOME_ATTENTION_IN_CLASS</a> by ThakaSartu (<a href="https://codepen.io/thakasartu">@thakasartu</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<hr>
+
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/2Nl7Ez8rQZE" title="ＣＹＢＥＲ　ＤＲＥＡＭ  3 [Chillwave - Synthwave Mix]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <IMG src="https://raw.githubusercontent.com/ThakaSartu/muna/master/assets/images/stitch_to_my_MUNA.png">
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/o_nXmFlGMwE" title="Kash Doll - Single & Happy ft. Wale, Eric Bellinger" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
