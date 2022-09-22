@@ -48,13 +48,13 @@ iframe {
   display:block;
   border-radius:12px;
   display: block;
-  margin: auto;
+  margin-block: 10px 10px;
 }
 
 img {
   border-radius:12px;
   display: block;
-  margin: auto;
+  margin-block: 10px 10px;
 }
 
 section {
@@ -294,13 +294,18 @@ a {
 }
 
 video {
+  border-radius:12px;
+  display: block;
+  margin-block: 10px 10px;
   background: rgb(217,4,121);
   background: linear-gradient(270deg, rgba(217,4,121,1) 0%, rgba(254,245,1,1) 35%, rgba(0,212,255,1) 100%);
 	transition: 1s cubic-bezier(.25,.1,.2,3);
 }
 
 video:hover {
-
+  border-radius:12px;
+  display: block;
+  margin-block: 10px 10px;
   background: rgb(217,4,121);
   background: linear-gradient(90deg, rgba(217,4,121,1) 0%, rgba(254,245,1,1) 35%, rgba(0,212,255,1) 100%);
 
