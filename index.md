@@ -1,3 +1,8 @@
+
+
+<iframe width="70%" height="315" src="https://www.youtube.com/embed/VgOMQxUY3cE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/259184267&color=%235f5f5e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;"><a href="https://soundcloud.com/alinabaraz" title="Alina Baraz" target="_blank" style="color: #cccccc; text-decoration: none;">Alina Baraz</a> · <a href="https://soundcloud.com/alinabaraz/sets/urban-flora-ep-2" title="Urban Flora EP" target="_blank" style="color: #cccccc; text-decoration: none;">Urban Flora EP</a></div>
 
 <iframe width="90%" height="300" src="https://www.youtube.com/embed/6s4slL3_jtI" title="KASHDOLL ROBBED IN LA!!!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
