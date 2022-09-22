@@ -1,4 +1,20 @@
-<iframe width="75%"  height="480" src="https://www.youtube.com/embed/5If26BYbHp8" title="Looney Tunes - Mega Compilation 6 | Bugs Bunny, Daffy Duck, Porky Pig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## WHO_SAMPLED_SELECTiON
+[NAS_ZONEDOUT_SAMPLED...](https://www.whosampled.com/Nas/Zone-Out/)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6LZnxCxeFDh8H2PvQGZmNR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7DTlsMOQjGysXHpwwpHuPl?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## TUNEBAT::Recommendations for Harmonic Mixing
+[The following tracks will sound good when mixed](https://tunebat.com/Info/Lifestyle-Rich-Gang-Young-Thug-Rich-Homie-Quan/7DTlsMOQjGysXHpwwpHuPl) with  Rich Gang, Young Thug, Rich Homie Quan — Lifestyle  because they have similar tempos, adjacent Camelot values, and complementary styles.
+
+<hr>
+
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/477282462&color=%23705046&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/itsellamai" title="Ella Mai" target="_blank" style="color: #cccccc; text-decoration: none;">Ella Mai</a> · <a href="https://soundcloud.com/itsellamai/trip" title="Trip" target="_blank" style="color: #cccccc; text-decoration: none;">Trip</a></div>
+
+<iframe width="577"  height="480" src="https://www.youtube.com/embed/5If26BYbHp8" title="Looney Tunes - Mega Compilation 6 | Bugs Bunny, Daffy Duck, Porky Pig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <IMG src="https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_1357,w_2558,x_0,y_25,f_auto,q_auto:eco/Screen_Shot_2017-05-31_at_3.55.07_PM_bxskmp/Screen_Shot_2017-05-31_at_3.55.07_PM_bxskmp.jpg" alt="##_HiS_BLAKAZZ_KNOW_DET_CAHRDi_BEE_iZ_MY_WIFE"> 
 
