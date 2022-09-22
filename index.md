@@ -1,4 +1,14 @@
 
+<h2 >
+Lean on Me 1989 PG-13
+
+</h2>
+<h3>1h 48m</h3>
+
+  <video width="100%" height="350px" controls preload="none" poster='https://static.wikia.nocookie.net/vhs-openings/images/f/f2/Lean-on-me-8379l.jpg' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
+  <source src="https://raw.githubusercontent.com/ThakaSartu/saa2/master/assets/images/video1/LEANONME_TRAiLER.mp4" type='video/mp4' />
+
+  </video>
 <IMG src="https://www.graffiti.org/tempt/1999b_tempt.jpg" alt="##TEMPT_TDK_IS_MY_BROTHER_AND_CAN_BE_CHANNELED_FOR_MY_FAMILY_HISTORY_AND_GENEOLOGY">
 <IMG src="https://www.graffiti.org/tempt/1996c_tempt.jpg" alt="TEPMT_TDK_CAN_BE_CHANNELED">
 <hr>
