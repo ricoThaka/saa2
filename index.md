@@ -3,7 +3,7 @@ Kleptomaniac Pebbles
 </h2>
 <h3>The Flintstones: Season 4, Episode 11</h3>
 
-  <video width="100%" height="350px" controls preload="none" poster='https://static.wikia.nocookie.net/flinstones/images/5/59/The_Flintstones_Comic_Strip_-_11-25-1973.PNG/revision/latest/scale-to-width-down/1000?cb=20220910033939' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
+  <video width="100%" height="350px" controls preload="none" poster='https://raw.githubusercontent.com/ThakaSartu/saa2/master/assets/images/Daddies-Anonymous-450x370.jpg' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
   <source src="https://ia801700.us.archive.org/27/items/the-flintstones/Kleptomaniac%20Pebbles.mp4" type='video/mp4' />
 
 </video>
