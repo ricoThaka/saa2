@@ -1,3 +1,11 @@
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5KSJ9k1FYjFLnIRlJT2wF8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## Sartu's blog
+Yo I am using `margin-block` to keep everything spaced apart. If you code consistently figuring out clean ways to do things is not hard. You always stumbling on to newness. So Im hacking away we are getting more stable as the peopleenslaving them are brought to accountability... Im.... Stateless
+<IMG src="https://raw.githubusercontent.com/ThakaSartu/saa2/master/assets/images/classRoom.PNG" alt="dis_fo_yah_bruthaz">
+
+
 ## Hella_DBZ_EPiSODES
 # on_ARCHiVE_dOt_oRg
 [Dragon Ball Z - Ocean Productions/Westwood Studios dub](https://archive.org/details/dragon-ball-z-ocean-productionswestwood-studios-dub-2000-2002/Dragon+Ball+Z+-+Ocean+Productions-Westwood+Studios+dub+(2000-2002)/DBZ+108.mp4)
