@@ -39,15 +39,16 @@ body {
 /* General & 'Reset' Stuff */
 
 .container {
-  width: 90%;
+  width: 80%;
   max-width: $container-max-width;
   margin: 0 auto;
 }
 
 iframe {
   display:block;
-  margin: auto;
+  margin: 15px;
   border-radius:12px;
+ 
 }
 
 img {
