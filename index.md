@@ -1,4 +1,15 @@
 
+<h2 >
+Jason "CAMOFLAUGE" Johnson
+
+</h2>
+<h3>Hot_Grits</h3>
+
+  <video width="100%" height="350px" controls preload="none" poster='https://i.discogs.com/qL9D3TxIrQo1e4vaizTjJqtVFXIJDiuVmyEqyGLnCZc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NzEw/MzgtMTQ0NTMyMDI1/OS05MzEwLmpwZWc.jpeg' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
+  <source src="https://raw.githubusercontent.com/ThakaSartu/saa2/master/assets/images/Jason_CAMOFLUAGE_Johnson_HOT_GRiTS_FEAT_DAT_BOY_FROM_BEACH.mp4" type='video/mp4' />
+
+  </video>
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5KSJ9k1FYjFLnIRlJT2wF8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Sartu's blog
