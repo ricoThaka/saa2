@@ -1,3 +1,18 @@
+## Hella_DBZ_EPiSODES
+# on_ARCHiVE_dOt_oRg
+[Dragon Ball Z - Ocean Productions/Westwood Studios dub](https://archive.org/details/dragon-ball-z-ocean-productionswestwood-studios-dub-2000-2002/Dragon+Ball+Z+-+Ocean+Productions-Westwood+Studios+dub+(2000-2002)/DBZ+108.mp4)
+
+  <video width="100%" height="350px" controls preload="none" poster='https://img1.ak.crunchyroll.com/i/spire4/414a251e58d2a3a45eda768c6dc912401647360733_main.jpg' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
+  <source src="https://ia803202.us.archive.org/15/items/dragon-ball-z-ocean-productionswestwood-studios-dub-2000-2002/Dragon%20Ball%20Z%20-%20Ocean%20Productions-Westwood%20Studios%20dub%20%282000-2002%29/DBZ%20108.mp4" type='video/mp4' />
+
+</video>
+
+
+
+
+
+<iframe src="https://archive.org/embed/dragon-ball-z-ocean-productionswestwood-studios-dub-2000-2002" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 <h2 >
 Kleptomaniac Pebbles
 </h2>
