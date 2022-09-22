@@ -1,3 +1,13 @@
+<h2 >
+Kleptomaniac Pebbles
+</h2>
+<h3>The Flintstones: Season 4, Episode 11</h3>
+
+  <video width="100%" height="350px" controls preload="none" poster='https://static.wikia.nocookie.net/flinstones/images/5/59/The_Flintstones_Comic_Strip_-_11-25-1973.PNG/revision/latest/scale-to-width-down/1000?cb=20220910033939' data-setup='{ "playbackRates": [1, 1.5, 2] }'>
+  <source src="https://ia801700.us.archive.org/27/items/the-flintstones/Kleptomaniac%20Pebbles.mp4" type='video/mp4' />
+
+</video>
+
 <iframe src="https://archive.org/embed/the-flintstones" width="100%" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1dF5Y2dd7Wm4wZKvVjWBpr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/19FsxX4RthRMZGfXkImdCb?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
