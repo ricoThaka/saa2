@@ -1,3 +1,13 @@
+
+
+## Why choose a .FM domain?
+Originally the country code TLD for the [Federated States of Micronesia](https://www.state.gov/countries-areas/micronesia/), the .fm extension is a great choice for radio stations and online streaming services.
+
+Is a .FM domain extension right for me?
+The .fm top-level domain is a radio and streaming must-have. It’s a memorable namespace used by many iconic brands in the industry...[learn_ah_lil_mo+](https://www.namecheap.com/domains/registration/cctld/fm/)
+
+<hr>
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2CS6VF70zr8j0lrSGNdXlu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## SiX_HOURS_OF
