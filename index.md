@@ -1,3 +1,15 @@
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7yH4QEmh7eU7tODApxrHHd?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+```ruby
+# Wisdom Body Lyrics
+# [Intro]
+#No, man, all bitches are the same, just like my hoes, you know?
+#I keep 'em broke, wake up one morning with some money
+#They're subject to go crazy, you know?
+#I keep 'em looking good, pretty and all that, you know, but no dough
+# When I get a bitch, I got a bitch (Right on)
+# -- DAH_PiMP_FRUM_DEY_HOOD
+```
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1kHPOtD1fo3kWOgcs0oisd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
