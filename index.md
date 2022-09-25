@@ -1,3 +1,23 @@
+ {% highlight ruby %}
+1 # HOLE_TO_ANOTHER_UNiVERSE##############################
+2 # TO####################################################
+3 # ANOTHER###############################################
+4 # UNiVERSE####################################CORaL#####
+{% endhighlight %}
+<hr>
+
+[z-index](https://css-tricks.com/almanac/properties/z/z-index/)
+
+
+## Hole To Another Universe
+One day my blog will `RETURN true` when run from the [command](https://soundcloud.com/audiopush/04-04-ask-me-1?in=audiopush/sets/the-good-vibe-tribe&si=1518ae24d13d458bac5ce3bc7eaebaf1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) line!
+
+
+# AUDiO_PUSH::REPPiN
+## A song by skaters for skaters
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/201663723&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 20px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; "><a href="https://soundcloud.com/audiopush" title="Audio Push" target="_blank" style="color: #cccccc; text-decoration: none;">Audio Push</a> · <a href="https://soundcloud.com/audiopush/03-03-reppin-1" title="Reppin" target="_blank" style="color: #cccccc; text-decoration: none;">Reppin</a></div>
+
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5XXNwf98jhyQ6ZgKnW2wFs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Uu8BPsWQGZk5AiRN3uBwn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
