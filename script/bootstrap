@@ -3,7 +3,7 @@
 set -e
 
 
-gem install jekyll bundler
+        #  gem install jekyll bundler
 bundle install
-gem install sass-embedded -v 1.63.6
+# gem install sass-embedded -v 1.63.6
 gem install bundler -v 2.4.22
